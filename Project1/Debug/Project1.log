@@ -1,0 +1,51 @@
+﻿  glad.c
+  Main.cpp
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(43,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(44,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(51,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(52,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(99,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(100,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(104,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(105,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(96,25): warning C4101: 'erandX': unreferenced local variable
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(96,33): warning C4101: 'erandY': unreferenced local variable
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(131,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(143,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(144,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(153,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(158,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(164,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(169,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(178,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(183,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(189,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(194,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(204,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(209,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(215,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(220,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(252,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(258,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(262,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(268,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(273,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(279,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(283,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(289,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(294,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(300,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(304,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Project1\Main.cpp(310,20): warning C4305: '=': truncation from 'double' to 'float'
+Main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwGetProcAddress referenced in function _main
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\\..\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\\..\GLFW\lib-vc2019\glfw3dll.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Kemal Eren Öztürk\Desktop\2.odevdenem\Proje\Debug\Ödev2.exe : fatal error LNK1120: 9 unresolved externals

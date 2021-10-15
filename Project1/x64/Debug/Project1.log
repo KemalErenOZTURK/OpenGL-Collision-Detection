@@ -1,0 +1,41 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Ödev2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(42,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(43,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(50,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(51,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(98,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(99,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(103,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(104,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(95,25): warning C4101: 'erandX': unreferenced local variable
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(95,33): warning C4101: 'erandY': unreferenced local variable
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(130,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(142,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(143,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(152,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(157,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(163,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(168,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(177,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(182,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(188,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(193,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(203,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(208,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(214,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(219,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(251,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(257,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(261,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(267,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(272,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(278,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(282,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(288,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(293,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(299,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(303,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(309,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\Project1\Main.cpp(489,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Project1.vcxproj -> C:\ÖDEVLER-NOTLAR\BilgisayarGrafiğiProje-Opengl\Proje\x64\Debug\OpenGL.exe
